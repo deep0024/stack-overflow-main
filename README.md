@@ -49,5 +49,3 @@ This website uses icons from font awesome.
 ## Reminder for Null Class Students
 
 If you are a Null Class student the repo is updated from the old one. If you need the old repo you can checkout the branch I have created.
-
-Made with ❤️ by [@Manoj](https://twitter.com/Manoj_Athi)
